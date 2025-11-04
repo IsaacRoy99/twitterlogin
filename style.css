@@ -46,6 +46,7 @@ a {
 .header {
     color: #d6d9db;
     width: 100%;
+    padding: 10, 10, 10, 10;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -198,4 +199,5 @@ input:focus + label {
     top: 6px;
     left: 10px;
     font: size 12px;
+
 }
